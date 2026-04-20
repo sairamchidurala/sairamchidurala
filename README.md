@@ -101,7 +101,7 @@
 
 ## 📫 Connect With Me
 
-- 👨‍💻 Portfolio: https://www.iamsairam.in
+- 👨‍💻 Portfolio: https://iamsairam.in
 - 💼 LinkedIn: https://www.linkedin.com/in/sairam-chidurala  
 - 📧 Email: sairamchidurala93@gmail.com
 

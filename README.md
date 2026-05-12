@@ -81,15 +81,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairamchidurala&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamchidurala&theme=radical" height="165"/>
-</p>
-
----
-
 ## 🔥 What I'm Focused On Now
 
 - 🧠 Advanced System Design
